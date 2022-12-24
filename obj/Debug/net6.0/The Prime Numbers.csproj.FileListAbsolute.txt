@@ -1,0 +1,15 @@
+C:\Users\orgenal\Desktop\The Prime Numbers\bin\Debug\net6.0\The Prime Numbers.exe
+C:\Users\orgenal\Desktop\The Prime Numbers\bin\Debug\net6.0\The Prime Numbers.deps.json
+C:\Users\orgenal\Desktop\The Prime Numbers\bin\Debug\net6.0\The Prime Numbers.runtimeconfig.json
+C:\Users\orgenal\Desktop\The Prime Numbers\bin\Debug\net6.0\The Prime Numbers.dll
+C:\Users\orgenal\Desktop\The Prime Numbers\bin\Debug\net6.0\The Prime Numbers.pdb
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.csproj.AssemblyReference.cache
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.AssemblyInfo.cs
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.dll
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\refint\The Prime Numbers.dll
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.pdb
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\The Prime Numbers.genruntimeconfig.cache
+C:\Users\orgenal\Desktop\The Prime Numbers\obj\Debug\net6.0\ref\The Prime Numbers.dll
